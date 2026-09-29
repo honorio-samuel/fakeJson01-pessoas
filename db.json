@@ -1,0 +1,56 @@
+{
+  "pessoas": [
+    { "id": 1, "nome": "Carlos Andrade", "cpf": "100.000.000-01", "dataNascimento": "1980-03-12", "sexo": "M", "telefone": "(11) 90000-0001", "email": "carlos.andrade@clinica.exemplo", "endereco": "Rua Exemplo, 101 - Centro" },
+    { "id": 2, "nome": "Beatriz Lima", "cpf": "100.000.000-02", "dataNascimento": "1985-07-21", "sexo": "F", "telefone": "(11) 90000-0002", "email": "beatriz.lima@clinica.exemplo", "endereco": "Rua Exemplo, 102 - Centro" },
+    { "id": 3, "nome": "Juliana Costa", "cpf": "100.000.000-03", "dataNascimento": "1990-01-15", "sexo": "F", "telefone": "(11) 90000-0003", "email": "juliana.costa@clinica.exemplo", "endereco": "Rua Exemplo, 103 - Centro" },
+    { "id": 4, "nome": "Fernanda Alves", "cpf": "100.000.000-04", "dataNascimento": "1992-11-02", "sexo": "F", "telefone": "(11) 90000-0004", "email": "fernanda.alves@clinica.exemplo", "endereco": "Rua Exemplo, 104 - Centro" },
+    { "id": 5, "nome": "Ricardo Menezes", "cpf": "100.000.000-05", "dataNascimento": "1975-05-30", "sexo": "M", "telefone": "(11) 90000-0005", "email": "ricardo.menezes@clinica.exemplo", "endereco": "Rua Exemplo, 105 - Centro" },
+    { "id": 6, "nome": "Patrícia Nogueira", "cpf": "100.000.000-06", "dataNascimento": "1982-09-09", "sexo": "F", "telefone": "(11) 90000-0006", "email": "patricia.nogueira@clinica.exemplo", "endereco": "Rua Exemplo, 106 - Centro" },
+    { "id": 7, "nome": "André Farias", "cpf": "100.000.000-07", "dataNascimento": "1978-12-01", "sexo": "M", "telefone": "(11) 90000-0007", "email": "andre.farias@clinica.exemplo", "endereco": "Rua Exemplo, 107 - Centro" },
+    { "id": 8, "nome": "Lucas Pereira", "cpf": "100.000.000-08", "dataNascimento": "1988-04-18", "sexo": "M", "telefone": "(11) 90000-0008", "email": "lucas.pereira@clinica.exemplo", "endereco": "Rua Exemplo, 108 - Centro" },
+    { "id": 9, "nome": "Mariana Rocha", "cpf": "100.000.000-09", "dataNascimento": "1995-08-25", "sexo": "F", "telefone": "(11) 90000-0009", "email": "mariana.rocha@clinica.exemplo", "endereco": "Rua Exemplo, 109 - Centro" },
+    { "id": 10, "nome": "Roberto Gomes", "cpf": "100.000.000-10", "dataNascimento": "1960-02-14", "sexo": "M", "telefone": "(11) 90000-0010", "email": "roberto.gomes@clinica.exemplo", "endereco": "Rua Exemplo, 110 - Centro" },
+    { "id": 11, "nome": "Sofia Martins", "cpf": null, "dataNascimento": "2017-06-10", "sexo": "F", "telefone": "(11) 90000-0011", "email": "sofia.martins@clinica.exemplo", "endereco": "Rua Exemplo, 111 - Centro" },
+    { "id": 12, "nome": "Helena Martins", "cpf": "100.000.000-12", "dataNascimento": "1986-10-05", "sexo": "F", "telefone": "(11) 90000-0012", "email": "helena.martins@clinica.exemplo", "endereco": "Rua Exemplo, 112 - Centro" },
+    { "id": 13, "nome": "Eduardo Tavares", "cpf": "100.000.000-13", "dataNascimento": "1984-02-11", "sexo": "M", "telefone": "(11) 90000-0013", "email": "eduardo.tavares@clinica.exemplo", "endereco": "Rua Exemplo, 113 - Centro" },
+    { "id": 14, "nome": "Camila Duarte", "cpf": "100.000.000-14", "dataNascimento": "1991-05-27", "sexo": "F", "telefone": "(11) 90000-0014", "email": "camila.duarte@clinica.exemplo", "endereco": "Rua Exemplo, 114 - Centro" },
+    { "id": 15, "nome": "Gustavo Ribeiro", "cpf": "100.000.000-15", "dataNascimento": "1970-08-03", "sexo": "M", "telefone": "(11) 90000-0015", "email": "gustavo.ribeiro@clinica.exemplo", "endereco": "Rua Exemplo, 115 - Centro" },
+    { "id": 16, "nome": "Larissa Moura", "cpf": "100.000.000-16", "dataNascimento": "1998-12-19", "sexo": "F", "telefone": "(11) 90000-0016", "email": "larissa.moura@clinica.exemplo", "endereco": "Rua Exemplo, 116 - Centro" },
+    { "id": 17, "nome": "Rafael Cardoso", "cpf": "100.000.000-17", "dataNascimento": "1965-03-30", "sexo": "M", "telefone": "(11) 90000-0017", "email": "rafael.cardoso@clinica.exemplo", "endereco": "Rua Exemplo, 117 - Centro" },
+    { "id": 18, "nome": "Vanessa Pinto", "cpf": "100.000.000-18", "dataNascimento": "1989-07-14", "sexo": "F", "telefone": "(11) 90000-0018", "email": "vanessa.pinto@clinica.exemplo", "endereco": "Rua Exemplo, 118 - Centro" },
+    { "id": 19, "nome": "Thiago Barros", "cpf": "100.000.000-19", "dataNascimento": "1979-10-08", "sexo": "M", "telefone": "(11) 90000-0019", "email": "thiago.barros@clinica.exemplo", "endereco": "Rua Exemplo, 119 - Centro" },
+    { "id": 20, "nome": "Aline Freitas", "cpf": "100.000.000-20", "dataNascimento": "1993-01-22", "sexo": "F", "telefone": "(11) 90000-0020", "email": "aline.freitas@clinica.exemplo", "endereco": "Rua Exemplo, 120 - Centro" },
+    { "id": 21, "nome": "Marcelo Teixeira", "cpf": "100.000.000-21", "dataNascimento": "1958-06-05", "sexo": "M", "telefone": "(11) 90000-0021", "email": "marcelo.teixeira@clinica.exemplo", "endereco": "Rua Exemplo, 121 - Centro" }
+  ],
+  "administradores": [
+    { "id": 1, "situacao": "ATIVO" },
+    { "id": 2, "situacao": "ATIVO" }
+  ],
+  "secretarias": [
+    { "id": 3, "turno": "MANHA", "situacao": "ATIVO" },
+    { "id": 4, "turno": "TARDE", "situacao": "ATIVO" }
+  ],
+  "medicos": [
+    { "id": 5, "crm": "100001", "ufCrm": "SP", "especialidade": "Clínica Geral", "situacao": "ATIVO" },
+    { "id": 6, "crm": "100002", "ufCrm": "SP", "especialidade": "Pediatria", "situacao": "ATIVO" },
+    { "id": 7, "crm": "100003", "ufCrm": "SP", "especialidade": "Dermatologia", "situacao": "ATIVO" }
+  ],
+  "pacientes": [
+    { "id": 8, "nomeSocial": null, "observacoesGerais": "Prefere atendimento no período da manhã", "situacao": "ATIVO", "pendenteDeCpf": false },
+    { "id": 9, "nomeSocial": "Mari", "observacoesGerais": "Costuma chegar com 15 minutos de antecedência", "situacao": "ATIVO", "pendenteDeCpf": false },
+    { "id": 10, "nomeSocial": null, "observacoesGerais": "Contato preferencial por ligação telefônica", "situacao": "ATIVO", "pendenteDeCpf": false },
+    { "id": 11, "nomeSocial": null, "observacoesGerais": "Atendimento sempre com a responsável presente", "situacao": "ATIVO", "pendenteDeCpf": true },
+    { "id": 13, "nomeSocial": null, "observacoesGerais": "Prefere contato por e-mail", "situacao": "ATIVO", "pendenteDeCpf": false },
+    { "id": 14, "nomeSocial": null, "observacoesGerais": "Solicitou lembrete por SMS", "situacao": "ATIVO", "pendenteDeCpf": false },
+    { "id": 15, "nomeSocial": null, "observacoesGerais": "Chega acompanhado do cônjuge", "situacao": "ATIVO", "pendenteDeCpf": false },
+    { "id": 16, "nomeSocial": null, "observacoesGerais": "Horário preferencial pela manhã", "situacao": "ATIVO", "pendenteDeCpf": false },
+    { "id": 17, "nomeSocial": null, "observacoesGerais": "Necessita de acesso por rampa (cadeira de rodas)", "situacao": "ATIVO", "pendenteDeCpf": false },
+    { "id": 18, "nomeSocial": null, "observacoesGerais": "Estaciona pelo portão lateral", "situacao": "ATIVO", "pendenteDeCpf": false },
+    { "id": 19, "nomeSocial": null, "observacoesGerais": "Contato preferencial por ligação telefônica", "situacao": "ATIVO", "pendenteDeCpf": false },
+    { "id": 20, "nomeSocial": null, "observacoesGerais": "Prefere atendimento após as 14h", "situacao": "ATIVO", "pendenteDeCpf": false },
+    { "id": 21, "nomeSocial": null, "observacoesGerais": "Pendência de atualização de endereço", "situacao": "ATIVO", "pendenteDeCpf": false }
+  ],
+  "responsaveisLegais": [
+    { "id": 12, "documentoComprobatorio": "Certidão de nascimento da representada (cópia conferida)", "situacao": "ATIVO" }
+  ]
+}
